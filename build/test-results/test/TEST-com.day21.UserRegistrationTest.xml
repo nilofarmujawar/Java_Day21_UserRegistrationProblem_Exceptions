@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.day21.UserRegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-12T18:25:14" hostname="DESKTOP-617Q1NQ" time="0.081">
+<testsuite name="com.day21.UserRegistrationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-12T18:58:37" hostname="DESKTOP-617Q1NQ" time="0.157">
   <properties/>
-  <testcase name="givenLastName_WhenInFormat_ShouldReturnTrue()" classname="com.day21.UserRegistrationTest" time="0.081"/>
+  <testcase name="givenLastName_WhenInFormat_ShouldReturnTrue()" classname="com.day21.UserRegistrationTest" time="0.088"/>
+  <testcase name="givenLastName_WhenOurOfFormat_ShouldReturnFalse()" classname="com.day21.UserRegistrationTest" time="0.005"/>
+  <testcase name="givenEmail_WhenOurOfFormat_ShouldReturnFalse()" classname="com.day21.UserRegistrationTest" time="0.012"/>
+  <testcase name="givenFirstName_WhenInFormat_ShouldReturnTrue()" classname="com.day21.UserRegistrationTest" time="0.004"/>
+  <testcase name="givenFirstName_WhenOurOfFormat_ShouldReturnFlase()" classname="com.day21.UserRegistrationTest" time="0.005"/>
+  <testcase name="givenEmail_WhenInFormat_ShouldReturnTrue()" classname="com.day21.UserRegistrationTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
