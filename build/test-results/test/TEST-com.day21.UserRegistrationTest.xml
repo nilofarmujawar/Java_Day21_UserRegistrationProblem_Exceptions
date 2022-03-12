@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.day21.UserRegistrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-12T17:59:56" hostname="DESKTOP-617Q1NQ" time="0.112">
+<testsuite name="com.day21.UserRegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-12T18:25:14" hostname="DESKTOP-617Q1NQ" time="0.081">
   <properties/>
-  <testcase name="givenFirstName_WhenInFormat_ShouldReturnTrue()" classname="com.day21.UserRegistrationTest" time="0.096"/>
-  <testcase name="givenFirstName_WhenOurOfFormat_ShouldReturnFlase()" classname="com.day21.UserRegistrationTest" time="0.013"/>
+  <testcase name="givenLastName_WhenInFormat_ShouldReturnTrue()" classname="com.day21.UserRegistrationTest" time="0.081"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
